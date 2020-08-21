@@ -11,7 +11,7 @@ public class EurekaOneApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		//TEST
+		//TEST 0821
 	}
 
 }
